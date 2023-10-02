@@ -13,6 +13,8 @@ def deleteAndEarn(self, nums):
             delete 4, f(2,3,4) = 4 + f([2])
             max of these and use memoization.
             BUT, cannot hash lists
+        New approach:
+        - the frequency of each num is the score contributor
         """
         pass
 

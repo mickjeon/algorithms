@@ -1,5 +1,6 @@
 def divisorGame(n):
     """
+    https://leetcode.com/problems/divisor-game/
     :type n: int
     :rtype: bool
     n = 2
